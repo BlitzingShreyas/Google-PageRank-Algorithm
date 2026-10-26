@@ -4,7 +4,7 @@ An interactive Python GUI application that demonstrates Google's PageRank algori
 
 ## Features
 
-•⁠  ⁠Create and name webpages
+•⁠  ⁠Create and name the webpages
 •⁠  ⁠Add links between webpages
 •⁠  ⁠Generate the adjacency matrix
 •⁠  ⁠Calculate the transition matrix and Google matrix
