@@ -29,8 +29,7 @@ python -m pip install -r requirements.txt
 
 ## Run the Application
 
-⁠ bash
-python pagerank_app.py
+⁠ bash python pagerank_algo.py
  ⁠
 
 ## How It Works
